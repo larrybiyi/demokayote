@@ -1,0 +1,2 @@
+Access keys: 'AKIA2UC3CZDJDTXE7VWP'
+Secret Keys: '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'
